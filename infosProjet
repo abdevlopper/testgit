@@ -1,0 +1,7 @@
+git config user.name
+abdevlopper
+git config user.email
+abdomy41@gmail.com
+git init
+git status
+git add .
